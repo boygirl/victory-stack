@@ -1,0 +1,19 @@
+{
+  "name": "victory-stack",
+  "version": "0.0.1",
+  "description": "stack component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-stack.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-stack/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-stack",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
